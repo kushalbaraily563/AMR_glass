@@ -1,0 +1,17 @@
+indicator,region,countries,median_pct
+E. coli (3rd-gen. cephalosporin resistant),East Asia & Pacific,14,36.30500000000001
+E. coli (3rd-gen. cephalosporin resistant),Europe & Central Asia,30,13.01
+E. coli (3rd-gen. cephalosporin resistant),Latin America & Caribbean,5,27.78
+E. coli (3rd-gen. cephalosporin resistant),"Middle East, North Africa, Afghanistan & Pakistan",19,57.23
+E. coli (3rd-gen. cephalosporin resistant),North America,1,23.36
+E. coli (3rd-gen. cephalosporin resistant),Other,1,38.46
+E. coli (3rd-gen. cephalosporin resistant),South Asia,6,70.01
+E. coli (3rd-gen. cephalosporin resistant),Sub-Saharan Africa,22,67.69
+MRSA,East Asia & Pacific,15,38.1
+MRSA,Europe & Central Asia,30,7.8
+MRSA,Latin America & Caribbean,4,38.97
+MRSA,"Middle East, North Africa, Afghanistan & Pakistan",20,47.08
+MRSA,North America,1,20.98
+MRSA,Other,1,59.26
+MRSA,South Asia,5,54.85
+MRSA,Sub-Saharan Africa,23,40

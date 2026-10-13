@@ -1,0 +1,15 @@
+indicator,year,countries,median_pct,q1_pct,q3_pct,focus_pct,world_pct
+E. coli (3rd-gen. cephalosporin resistant),2016,16,26.9,11.1,42.4,NA,35.8
+E. coli (3rd-gen. cephalosporin resistant),2017,42,29.1,12.9,49.1,NA,29.1
+E. coli (3rd-gen. cephalosporin resistant),2018,55,36,16.1,65.4,NA,36
+E. coli (3rd-gen. cephalosporin resistant),2019,62,36.6,17.7,58,13.3,36.6
+E. coli (3rd-gen. cephalosporin resistant),2020,77,40,18.2,64.3,13.4,41.8
+E. coli (3rd-gen. cephalosporin resistant),2021,77,41,18.2,60,12.5,41
+E. coli (3rd-gen. cephalosporin resistant),2022,85,45.5,18.2,70.6,12.7,45.5
+MRSA,2016,15,13.4,3.6,36.7,NA,20.6
+MRSA,2017,42,18.2,8.9,37.3,NA,18.2
+MRSA,2018,53,23.1,11.3,46.5,NA,23.1
+MRSA,2019,56,21.7,11.8,42.4,18.5,21.7
+MRSA,2020,77,34.4,12.5,50.2,17.6,34.7
+MRSA,2021,78,32.1,9.8,45.4,16.9,32.1
+MRSA,2022,86,32.2,12.5,54.6,15,32.2

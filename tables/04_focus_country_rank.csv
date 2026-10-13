@@ -1,0 +1,9 @@
+indicator,year,resistance_pct,rank,countries,percentile
+E. coli (3rd-gen. cephalosporin resistant),2019,13.29,11,62,16
+E. coli (3rd-gen. cephalosporin resistant),2020,13.36,16,77,20
+E. coli (3rd-gen. cephalosporin resistant),2021,12.46,15,77,18
+E. coli (3rd-gen. cephalosporin resistant),2022,12.68,15,85,17
+MRSA,2019,18.47,24,56,42
+MRSA,2020,17.65,26,77,33
+MRSA,2021,16.91,27,78,34
+MRSA,2022,14.97,26,86,29

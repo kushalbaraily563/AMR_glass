@@ -1,0 +1,73 @@
+odds_ratio_per_year,conf_low,conf_high,p_value,status,indicator,countries,observations,min_years,adjustment,cohort
+1.0050679724713494,0.9658180578751081,1.045912965750631,0.8010431641942054,OK,E. coli (3rd-gen. cephalosporin resistant),74,378,3,Clamp 0.1%,All eligible countries
+1.027086477940881,0.9701702272972946,1.0873417916645083,0.3530816891235081,OK,MRSA,72,367,3,Clamp 0.1%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,3,Clamp 0.1%,Fixed: full
+0.9868424054013293,0.897266777857375,1.0853605161040312,0.7668782948527146,Few country clusters: interpret cautiously,MRSA,13,91,3,Clamp 0.1%,Fixed: full
+0.9829543765536645,0.9470085060306761,1.020264654681682,0.35826708295106635,OK,E. coli (3rd-gen. cephalosporin resistant),50,200,3,Clamp 0.1%,Fixed: recent
+0.9358446722313142,0.8209639591919212,1.0668010949053053,0.31350447069454374,OK,MRSA,47,188,3,Clamp 0.1%,Fixed: recent
+1.0085967056616276,0.9736050264698898,1.0448459971082005,0.6304315495259478,OK,E. coli (3rd-gen. cephalosporin resistant),74,378,3,Clamp 0.5%,All eligible countries
+1.0229498075847454,0.9698976300869827,1.0789038723022981,0.39842586668241364,OK,MRSA,72,367,3,Clamp 0.5%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,3,Clamp 0.5%,Fixed: full
+0.9824778525481438,0.900164344540093,1.0723183345378768,0.6676309894347845,Few country clusters: interpret cautiously,MRSA,13,91,3,Clamp 0.5%,Fixed: full
+0.9829543765536645,0.9470085060306761,1.020264654681682,0.35826708295106635,OK,E. coli (3rd-gen. cephalosporin resistant),50,200,3,Clamp 0.5%,Fixed: recent
+0.9520464974403627,0.8519233923284573,1.0639366654918718,0.3779911598000363,OK,MRSA,47,188,3,Clamp 0.5%,Fixed: recent
+1.0101275253060664,0.976622347134408,1.0447821723257484,0.5534436428452414,OK,E. coli (3rd-gen. cephalosporin resistant),74,378,3,Clamp 1%,All eligible countries
+1.0212701814334433,0.9695615654542853,1.0757365191104775,0.4219616086470275,OK,MRSA,72,367,3,Clamp 1%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,3,Clamp 1%,Fixed: full
+0.9805951771729154,0.9012540354252168,1.0669210496695405,0.6220026923720005,Few country clusters: interpret cautiously,MRSA,13,91,3,Clamp 1%,Fixed: full
+0.9829543765536645,0.9470085060306761,1.020264654681682,0.35826708295106635,OK,E. coli (3rd-gen. cephalosporin resistant),50,200,3,Clamp 1%,Fixed: recent
+0.959144148814482,0.864929455428627,1.063621423031732,0.420917450715502,OK,MRSA,47,188,3,Clamp 1%,Fixed: recent
+1.0174997488540152,0.9866280160405422,1.0493374626364163,0.2654597102191769,OK,E. coli (3rd-gen. cephalosporin resistant),74,377,3,Exclude endpoints,All eligible countries
+1.0158224867447205,0.9669921135977025,1.0671186559495842,0.5272090382981593,OK,MRSA,72,363,3,Exclude endpoints,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,3,Exclude endpoints,Fixed: full
+0.9689257495685214,0.9045599559848122,1.0378716214060266,0.33677997703683493,Few country clusters: interpret cautiously,MRSA,13,90,3,Exclude endpoints,Fixed: full
+0.9829543765536645,0.9470085060306761,1.020264654681682,0.35826708295106635,OK,E. coli (3rd-gen. cephalosporin resistant),50,200,3,Exclude endpoints,Fixed: recent
+1.003066720063211,0.9263133342108084,1.086179813826789,0.9386198302960526,OK,MRSA,47,185,3,Exclude endpoints,Fixed: recent
+0.997940382841808,0.958523675235659,1.0389779965128247,0.9187609465666495,OK,E. coli (3rd-gen. cephalosporin resistant),58,330,4,Clamp 0.1%,All eligible countries
+1.0244787045250558,0.9662853764864063,1.0861766529487593,0.4106971936459264,OK,MRSA,55,316,4,Clamp 0.1%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,4,Clamp 0.1%,Fixed: full
+0.9868424054013293,0.897266777857375,1.0853605161040312,0.7668782948527146,Few country clusters: interpret cautiously,MRSA,13,91,4,Clamp 0.1%,Fixed: full
+0.9829543765536645,0.9470085060306761,1.020264654681682,0.35826708295106635,OK,E. coli (3rd-gen. cephalosporin resistant),50,200,4,Clamp 0.1%,Fixed: recent
+0.9358446722313142,0.8209639591919212,1.0668010949053053,0.31350447069454374,OK,MRSA,47,188,4,Clamp 0.1%,Fixed: recent
+1.0015998139176148,0.9667301006380836,1.03772726904608,0.9283368172712929,OK,E. coli (3rd-gen. cephalosporin resistant),58,330,4,Clamp 0.5%,All eligible countries
+1.0201569098324341,0.9660469032437793,1.077297714204502,0.46603789834744735,OK,MRSA,55,316,4,Clamp 0.5%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,4,Clamp 0.5%,Fixed: full
+0.9824778525481438,0.900164344540093,1.0723183345378768,0.6676309894347845,Few country clusters: interpret cautiously,MRSA,13,91,4,Clamp 0.5%,Fixed: full
+0.9829543765536645,0.9470085060306761,1.020264654681682,0.35826708295106635,OK,E. coli (3rd-gen. cephalosporin resistant),50,200,4,Clamp 0.5%,Fixed: recent
+0.9520464974403627,0.8519233923284573,1.0639366654918718,0.3779911598000363,OK,MRSA,47,188,4,Clamp 0.5%,Fixed: recent
+1.0031875091235678,0.9699183776415166,1.0375978037540703,0.8507977147331043,OK,E. coli (3rd-gen. cephalosporin resistant),58,330,4,Clamp 1%,All eligible countries
+1.0184023538445364,0.9657147808553018,1.0739644612227313,0.49426460025746854,OK,MRSA,55,316,4,Clamp 1%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,4,Clamp 1%,Fixed: full
+0.9805951771729154,0.9012540354252168,1.0669210496695405,0.6220026923720005,Few country clusters: interpret cautiously,MRSA,13,91,4,Clamp 1%,Fixed: full
+0.9829543765536645,0.9470085060306761,1.020264654681682,0.35826708295106635,OK,E. coli (3rd-gen. cephalosporin resistant),50,200,4,Clamp 1%,Fixed: recent
+0.959144148814482,0.864929455428627,1.063621423031732,0.420917450715502,OK,MRSA,47,188,4,Clamp 1%,Fixed: recent
+1.0099609390868274,0.979633401683354,1.0412273578344635,0.5175532163938725,OK,E. coli (3rd-gen. cephalosporin resistant),57,326,4,Exclude endpoints,All eligible countries
+1.0126913882446684,0.9630752437583303,1.0648636796257,0.6167838353652473,OK,MRSA,55,312,4,Exclude endpoints,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,4,Exclude endpoints,Fixed: full
+0.9689257495685214,0.9045599559848122,1.0378716214060266,0.33677997703683493,Few country clusters: interpret cautiously,MRSA,13,90,4,Exclude endpoints,Fixed: full
+0.9829543765536645,0.9470085060306761,1.020264654681682,0.35826708295106635,OK,E. coli (3rd-gen. cephalosporin resistant),50,200,4,Exclude endpoints,Fixed: recent
+0.9989895597005856,0.9195499782888501,1.0852918970732477,0.9804837803703359,OK,MRSA,44,176,4,Exclude endpoints,Fixed: recent
+1.0179272193653517,0.9875094745803865,1.0492819062471979,0.24462607898438948,OK,E. coli (3rd-gen. cephalosporin resistant),48,290,5,Clamp 0.1%,All eligible countries
+1.0271244686331726,0.9652324545489065,1.0929850826016991,0.3905486501297212,OK,MRSA,47,284,5,Clamp 0.1%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,5,Clamp 0.1%,Fixed: full
+0.9868424054013293,0.897266777857375,1.0853605161040312,0.7668782948527146,Few country clusters: interpret cautiously,MRSA,13,91,5,Clamp 0.1%,Fixed: full
+NA,NA,NA,NA,Insufficient data,E. coli (3rd-gen. cephalosporin resistant),0,0,5,Clamp 0.1%,Fixed: recent
+NA,NA,NA,NA,Insufficient data,MRSA,0,0,5,Clamp 0.1%,Fixed: recent
+1.0179272193653517,0.9875094745803865,1.0492819062471979,0.24462607898438948,OK,E. coli (3rd-gen. cephalosporin resistant),48,290,5,Clamp 0.5%,All eligible countries
+1.0224845876303739,0.965010791742731,1.083381388982825,0.44308580870806447,OK,MRSA,47,284,5,Clamp 0.5%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,5,Clamp 0.5%,Fixed: full
+0.9824778525481438,0.900164344540093,1.0723183345378768,0.6676309894347845,Few country clusters: interpret cautiously,MRSA,13,91,5,Clamp 0.5%,Fixed: full
+NA,NA,NA,NA,Insufficient data,E. coli (3rd-gen. cephalosporin resistant),0,0,5,Clamp 0.5%,Fixed: recent
+NA,NA,NA,NA,Insufficient data,MRSA,0,0,5,Clamp 0.5%,Fixed: recent
+1.0179272193653517,0.9875094745803865,1.0492819062471979,0.24462607898438948,OK,E. coli (3rd-gen. cephalosporin resistant),48,290,5,Clamp 1%,All eligible countries
+1.0206012933298116,0.9646679256156526,1.0797777891098805,0.47014851508611955,OK,MRSA,47,284,5,Clamp 1%,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,5,Clamp 1%,Fixed: full
+0.9805951771729154,0.9012540354252168,1.0669210496695405,0.6220026923720005,Few country clusters: interpret cautiously,MRSA,13,91,5,Clamp 1%,Fixed: full
+NA,NA,NA,NA,Insufficient data,E. coli (3rd-gen. cephalosporin resistant),0,0,5,Clamp 1%,Fixed: recent
+NA,NA,NA,NA,Insufficient data,MRSA,0,0,5,Clamp 1%,Fixed: recent
+1.0179272193653517,0.9875094745803865,1.0492819062471979,0.24462607898438948,OK,E. coli (3rd-gen. cephalosporin resistant),48,290,5,Exclude endpoints,All eligible countries
+1.0113329691053383,0.9582743315264939,1.0673294074048163,0.6754847009957397,OK,MRSA,45,272,5,Exclude endpoints,All eligible countries
+0.9909721077086634,0.958198437062118,1.024866750218763,0.5677409354612921,Few country clusters: interpret cautiously,E. coli (3rd-gen. cephalosporin resistant),13,91,5,Exclude endpoints,Fixed: full
+0.9689257495685214,0.9045599559848122,1.0378716214060266,0.33677997703683493,Few country clusters: interpret cautiously,MRSA,13,90,5,Exclude endpoints,Fixed: full
+NA,NA,NA,NA,Insufficient data,E. coli (3rd-gen. cephalosporin resistant),0,0,5,Exclude endpoints,Fixed: recent
+NA,NA,NA,NA,Insufficient data,MRSA,0,0,5,Exclude endpoints,Fixed: recent

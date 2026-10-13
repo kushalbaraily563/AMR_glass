@@ -1,0 +1,198 @@
+indicator,year,m49,geo_type,country,resistance_pct,iso3,region,is_focus
+E. coli (3rd-gen. cephalosporin resistant),2022,32,COUNTRY,Argentina,22.47,ARG,Latin America & Caribbean,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,36,COUNTRY,Australia,12.68,AUS,East Asia & Pacific,TRUE
+E. coli (3rd-gen. cephalosporin resistant),2022,40,COUNTRY,Austria,8.13,AUT,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,48,COUNTRY,Bahrain,62.96,BHR,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,50,COUNTRY,Bangladesh,90,BGD,South Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,56,COUNTRY,Belgium,8.9,BEL,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,204,COUNTRY,Benin,73.08,BEN,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2020,64,COUNTRY,Bhutan,53.93,BTN,South Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,70,COUNTRY,Bosnia and Herzegovina,26.81,BIH,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,76,COUNTRY,Brazil,36.26,BRA,Latin America & Caribbean,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,96,COUNTRY,Brunei Darussalam,15.6,BRN,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,854,COUNTRY,Burkina Faso,91.67,BFA,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,116,COUNTRY,Cambodia,73.51,KHM,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,120,COUNTRY,Cameroon,96.3,CMR,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,124,COUNTRY,Canada,23.36,CAN,North America,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,344,SPECIAL ADMINISTRATIVE REGION (SAR),"China, Hong Kong SAR",30.08,HKG,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,170,COUNTRY,Colombia,25.63,COL,Latin America & Caribbean,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,191,COUNTRY,Croatia,16.45,HRV,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,196,COUNTRY,Cyprus,40.52,CYP,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,203,COUNTRY,Czechia,14.45,CZE,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2020,384,COUNTRY,Côte d'Ivoire,90,CIV,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,180,COUNTRY,Democratic Republic of the Congo,72.55,COD,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,208,COUNTRY,Denmark,7.32,DNK,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,818,COUNTRY,Egypt,87.5,EGY,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,233,COUNTRY,Estonia,11.57,EST,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,231,COUNTRY,Ethiopia,80.95,ETH,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,246,COUNTRY,Finland,6.67,FIN,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,250,COUNTRY,France,9.13,FRA,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,268,COUNTRY,Georgia,46.45,GEO,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,276,COUNTRY,Germany,9.41,DEU,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,288,COUNTRY,Ghana,90.38,GHA,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,300,COUNTRY,Greece,24.01,GRC,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,352,COUNTRY,Iceland,9.79,ISL,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,356,COUNTRY,India,77.53,IND,South Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,360,COUNTRY,Indonesia,69.73,IDN,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,364,COUNTRY,Iran (Islamic Republic of),70.64,IRN,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,368,COUNTRY,Iraq,85.71,IRQ,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,372,COUNTRY,Ireland,10.51,IRL,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,380,COUNTRY,Italy,26.5,ITA,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,392,COUNTRY,Japan,20.39,JPN,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,400,COUNTRY,Jordan,57.23,JOR,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,404,COUNTRY,Kenya,63.64,KEN,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,412,COUNTRY,Kosovo,38.46,NA,Other,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,414,COUNTRY,Kuwait,45.51,KWT,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,418,COUNTRY,Lao People's Democratic Republic,52.61,LAO,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,428,COUNTRY,Latvia,16.17,LVA,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,422,COUNTRY,Lebanon,37.22,LBN,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2020,430,COUNTRY,Liberia,40,LBR,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2020,434,COUNTRY,Libya,61.54,LBY,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,440,COUNTRY,Lithuania,17.03,LTU,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,442,COUNTRY,Luxembourg,10.87,LUX,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2019,450,COUNTRY,Madagascar,40.54,MDG,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2021,454,COUNTRY,Malawi,60,MWI,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2021,458,COUNTRY,Malaysia,23.97,MYS,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2018,462,COUNTRY,Maldives,62.96,MDV,South Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,466,COUNTRY,Mali,60.87,MLI,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,470,COUNTRY,Malta,13.35,MLT,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,480,COUNTRY,Mauritius,60.43,MUS,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,504,COUNTRY,Morocco,46.07,MAR,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,508,COUNTRY,Mozambique,64.29,MOZ,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,104,COUNTRY,Myanmar,90.91,MMR,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,516,COUNTRY,Namibia,18.18,NAM,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,524,COUNTRY,Nepal,77.06,NPL,South Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,528,COUNTRY,Netherlands (Kingdom of the),7.61,NLD,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2020,566,COUNTRY,Nigeria,80.77,NGA,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,807,COUNTRY,North Macedonia,60,MKD,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2021,578,COUNTRY,Norway,5.13,NOR,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,512,COUNTRY,Oman,78.16,OMN,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,586,COUNTRY,Pakistan,83.51,PAK,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,604,COUNTRY,Peru,76.67,PER,Latin America & Caribbean,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,608,COUNTRY,Philippines,43.89,PHL,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,616,COUNTRY,Poland,18.77,POL,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,634,COUNTRY,Qatar,43.31,QAT,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,410,COUNTRY,Republic of Korea,38.84,KOR,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,498,COUNTRY,Republic of Moldova,71.88,MDA,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,643,COUNTRY,Russian Federation,64.63,RUS,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,646,COUNTRY,Rwanda,48,RWA,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,682,COUNTRY,Saudi Arabia,52.83,SAU,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,702,COUNTRY,Singapore,25.53,SGP,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,710,COUNTRY,South Africa,30.04,ZAF,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,144,COUNTRY,Sri Lanka,58.76,LKA,South Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2018,729,COUNTRY,Sudan,66.67,SDN,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,752,COUNTRY,Sweden,7.31,SWE,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,756,COUNTRY,Switzerland,9.78,CHE,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,760,COUNTRY,Syrian Arab Republic,78.57,SYR,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,764,COUNTRY,Thailand,33.77,THA,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,626,COUNTRY,Timor-Leste,50,TLS,East Asia & Pacific,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2021,780,COUNTRY,Trinidad and Tobago,27.78,TTO,Latin America & Caribbean,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,788,COUNTRY,Tunisia,19.79,TUN,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,792,COUNTRY,Türkiye,52.18,TUR,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,800,COUNTRY,Uganda,81.82,UGA,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,804,COUNTRY,Ukraine,54.55,UKR,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,784,COUNTRY,United Arab Emirates,52.38,ARE,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,826,COUNTRY,United Kingdom of Great Britain and Northern Ireland,11.41,GBR,Europe & Central Asia,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,834,COUNTRY,United Republic of Tanzania,68.71,TZA,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,887,COUNTRY,Yemen,90.36,YEM,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+E. coli (3rd-gen. cephalosporin resistant),2022,894,COUNTRY,Zambia,76.47,ZMB,Sub-Saharan Africa,FALSE
+E. coli (3rd-gen. cephalosporin resistant),2021,275,NATIONAL LIBERATION MOVEMENT,"occupied Palestinian territory, including east Jerusalem",46.23,PSE,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,32,COUNTRY,Argentina,32.79,ARG,Latin America & Caribbean,FALSE
+MRSA,2022,36,COUNTRY,Australia,14.97,AUS,East Asia & Pacific,TRUE
+MRSA,2022,40,COUNTRY,Austria,3.87,AUT,Europe & Central Asia,FALSE
+MRSA,2022,48,COUNTRY,Bahrain,42.11,BHR,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,50,COUNTRY,Bangladesh,88.46,BGD,South Asia,FALSE
+MRSA,2022,56,COUNTRY,Belgium,4.56,BEL,Europe & Central Asia,FALSE
+MRSA,2022,204,COUNTRY,Benin,52.56,BEN,Sub-Saharan Africa,FALSE
+MRSA,2020,64,COUNTRY,Bhutan,11.67,BTN,South Asia,FALSE
+MRSA,2022,70,COUNTRY,Bosnia and Herzegovina,26.51,BIH,Europe & Central Asia,FALSE
+MRSA,2022,76,COUNTRY,Brazil,31.58,BRA,Latin America & Caribbean,FALSE
+MRSA,2022,96,COUNTRY,Brunei Darussalam,12.16,BRN,East Asia & Pacific,FALSE
+MRSA,2022,854,COUNTRY,Burkina Faso,30.43,BFA,Sub-Saharan Africa,FALSE
+MRSA,2022,116,COUNTRY,Cambodia,81.25,KHM,East Asia & Pacific,FALSE
+MRSA,2022,120,COUNTRY,Cameroon,76,CMR,Sub-Saharan Africa,FALSE
+MRSA,2022,124,COUNTRY,Canada,20.98,CAN,North America,FALSE
+MRSA,2022,344,SPECIAL ADMINISTRATIVE REGION (SAR),"China, Hong Kong SAR",45.84,HKG,East Asia & Pacific,FALSE
+MRSA,2022,170,COUNTRY,Colombia,45.15,COL,Latin America & Caribbean,FALSE
+MRSA,2022,191,COUNTRY,Croatia,53.85,HRV,Europe & Central Asia,FALSE
+MRSA,2022,196,COUNTRY,Cyprus,55.93,CYP,Europe & Central Asia,FALSE
+MRSA,2022,203,COUNTRY,Czechia,7.64,CZE,Europe & Central Asia,FALSE
+MRSA,2020,384,COUNTRY,Côte d'Ivoire,71.53,CIV,Sub-Saharan Africa,FALSE
+MRSA,2022,180,COUNTRY,Democratic Republic of the Congo,88.46,COD,Sub-Saharan Africa,FALSE
+MRSA,2022,208,COUNTRY,Denmark,1.85,DNK,Europe & Central Asia,FALSE
+MRSA,2020,262,COUNTRY,Djibouti,0,DJI,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,818,COUNTRY,Egypt,69.44,EGY,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,233,COUNTRY,Estonia,3.09,EST,Europe & Central Asia,FALSE
+MRSA,2022,748,COUNTRY,Eswatini,36.36,SWZ,Sub-Saharan Africa,FALSE
+MRSA,2022,231,COUNTRY,Ethiopia,61.82,ETH,Sub-Saharan Africa,FALSE
+MRSA,2022,246,COUNTRY,Finland,1.63,FIN,Europe & Central Asia,FALSE
+MRSA,2022,250,COUNTRY,France,11.15,FRA,Europe & Central Asia,FALSE
+MRSA,2022,268,COUNTRY,Georgia,28.32,GEO,Europe & Central Asia,FALSE
+MRSA,2022,276,COUNTRY,Germany,4.43,DEU,Europe & Central Asia,FALSE
+MRSA,2022,288,COUNTRY,Ghana,67.86,GHA,Sub-Saharan Africa,FALSE
+MRSA,2022,300,COUNTRY,Greece,41.08,GRC,Europe & Central Asia,FALSE
+MRSA,2022,352,COUNTRY,Iceland,2.78,ISL,Europe & Central Asia,FALSE
+MRSA,2022,356,COUNTRY,India,54.85,IND,South Asia,FALSE
+MRSA,2022,360,COUNTRY,Indonesia,35.18,IDN,East Asia & Pacific,FALSE
+MRSA,2022,364,COUNTRY,Iran (Islamic Republic of),34.71,IRN,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,368,COUNTRY,Iraq,87.76,IRQ,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,372,COUNTRY,Ireland,10.54,IRL,Europe & Central Asia,FALSE
+MRSA,2022,380,COUNTRY,Italy,30.6,ITA,Europe & Central Asia,FALSE
+MRSA,2022,392,COUNTRY,Japan,33.89,JPN,East Asia & Pacific,FALSE
+MRSA,2022,400,COUNTRY,Jordan,76.27,JOR,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,404,COUNTRY,Kenya,21.43,KEN,Sub-Saharan Africa,FALSE
+MRSA,2022,412,COUNTRY,Kosovo,59.26,NA,Other,FALSE
+MRSA,2022,414,COUNTRY,Kuwait,59.09,KWT,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,418,COUNTRY,Lao People's Democratic Republic,55.88,LAO,East Asia & Pacific,FALSE
+MRSA,2022,428,COUNTRY,Latvia,3.83,LVA,Europe & Central Asia,FALSE
+MRSA,2022,422,COUNTRY,Lebanon,52.5,LBN,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2021,430,COUNTRY,Liberia,5.88,LBR,Sub-Saharan Africa,FALSE
+MRSA,2020,434,COUNTRY,Libya,70,LBY,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,440,COUNTRY,Lithuania,9.42,LTU,Europe & Central Asia,FALSE
+MRSA,2022,442,COUNTRY,Luxembourg,4.68,LUX,Europe & Central Asia,FALSE
+MRSA,2019,450,COUNTRY,Madagascar,33.33,MDG,Sub-Saharan Africa,FALSE
+MRSA,2021,454,COUNTRY,Malawi,40,MWI,Sub-Saharan Africa,FALSE
+MRSA,2021,458,COUNTRY,Malaysia,16.45,MYS,East Asia & Pacific,FALSE
+MRSA,2022,466,COUNTRY,Mali,13.64,MLI,Sub-Saharan Africa,FALSE
+MRSA,2022,470,COUNTRY,Malta,19.85,MLT,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,480,COUNTRY,Mauritius,39.36,MUS,Sub-Saharan Africa,FALSE
+MRSA,2022,504,COUNTRY,Morocco,23.58,MAR,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,508,COUNTRY,Mozambique,6.67,MOZ,Sub-Saharan Africa,FALSE
+MRSA,2022,104,COUNTRY,Myanmar,66.67,MMR,East Asia & Pacific,FALSE
+MRSA,2022,516,COUNTRY,Namibia,0,NAM,Sub-Saharan Africa,FALSE
+MRSA,2022,524,COUNTRY,Nepal,83.33,NPL,South Asia,FALSE
+MRSA,2022,528,COUNTRY,Netherlands (Kingdom of the),2.31,NLD,Europe & Central Asia,FALSE
+MRSA,2022,566,COUNTRY,Nigeria,65.09,NGA,Sub-Saharan Africa,FALSE
+MRSA,2022,807,COUNTRY,North Macedonia,53.85,MKD,Europe & Central Asia,FALSE
+MRSA,2021,578,COUNTRY,Norway,0.94,NOR,Europe & Central Asia,FALSE
+MRSA,2022,512,COUNTRY,Oman,28.57,OMN,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,586,COUNTRY,Pakistan,67.06,PAK,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,598,COUNTRY,Papua New Guinea,65.52,PNG,East Asia & Pacific,FALSE
+MRSA,2022,604,COUNTRY,Peru,49.15,PER,Latin America & Caribbean,FALSE
+MRSA,2022,608,COUNTRY,Philippines,44.43,PHL,East Asia & Pacific,FALSE
+MRSA,2022,616,COUNTRY,Poland,13.66,POL,Europe & Central Asia,FALSE
+MRSA,2022,634,COUNTRY,Qatar,30.06,QAT,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,410,COUNTRY,Republic of Korea,45.71,KOR,East Asia & Pacific,FALSE
+MRSA,2022,498,COUNTRY,Republic of Moldova,23.81,MDA,Europe & Central Asia,FALSE
+MRSA,2022,643,COUNTRY,Russian Federation,7.28,RUS,Europe & Central Asia,FALSE
+MRSA,2022,682,COUNTRY,Saudi Arabia,52.05,SAU,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,702,COUNTRY,Singapore,31.17,SGP,East Asia & Pacific,FALSE
+MRSA,2020,706,COUNTRY,Somalia,46.67,SOM,Sub-Saharan Africa,FALSE
+MRSA,2022,710,COUNTRY,South Africa,16.48,ZAF,Sub-Saharan Africa,FALSE
+MRSA,2022,144,COUNTRY,Sri Lanka,51.31,LKA,South Asia,FALSE
+MRSA,2021,729,COUNTRY,Sudan,35.71,SDN,Sub-Saharan Africa,FALSE
+MRSA,2022,752,COUNTRY,Sweden,1.85,SWE,Europe & Central Asia,FALSE
+MRSA,2022,756,COUNTRY,Switzerland,4.07,CHE,Europe & Central Asia,FALSE
+MRSA,2022,760,COUNTRY,Syrian Arab Republic,29.41,SYR,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,764,COUNTRY,Thailand,7.47,THA,East Asia & Pacific,FALSE
+MRSA,2022,626,COUNTRY,Timor-Leste,38.1,TLS,East Asia & Pacific,FALSE
+MRSA,2022,788,COUNTRY,Tunisia,13.61,TUN,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,792,COUNTRY,Türkiye,31.35,TUR,Europe & Central Asia,FALSE
+MRSA,2020,800,COUNTRY,Uganda,75,UGA,Sub-Saharan Africa,FALSE
+MRSA,2022,804,COUNTRY,Ukraine,15.28,UKR,Europe & Central Asia,FALSE
+MRSA,2022,784,COUNTRY,United Arab Emirates,39.88,ARE,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,826,COUNTRY,United Kingdom of Great Britain and Northern Ireland,7.96,GBR,Europe & Central Asia,FALSE
+MRSA,2022,834,COUNTRY,United Republic of Tanzania,59.49,TZA,Sub-Saharan Africa,FALSE
+MRSA,2022,887,COUNTRY,Yemen,93.46,YEM,"Middle East, North Africa, Afghanistan & Pakistan",FALSE
+MRSA,2022,894,COUNTRY,Zambia,90,ZMB,Sub-Saharan Africa,FALSE
+MRSA,2021,275,NATIONAL LIBERATION MOVEMENT,"occupied Palestinian territory, including east Jerusalem",73.3,PSE,"Middle East, North Africa, Afghanistan & Pakistan",FALSE

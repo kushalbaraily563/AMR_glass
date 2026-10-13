@@ -1,0 +1,6 @@
+SDG 3.d.2 ANTIMICROBIAL RESISTANCE ANALYSIS
+
+E. coli (3rd-gen. cephalosporin resistant): 98 countries, 2016-2022; Australia 12.7% (2022); within-country OR per year 1.009 (95% CI 0.974-1.045)
+MRSA: 99 countries, 2016-2022; Australia 15% (2022); within-country OR per year 1.023 (95% CI 0.97-1.079)
+
+Spearman correlation between E. coli and MRSA (country averages): 0.8 (n = 95)

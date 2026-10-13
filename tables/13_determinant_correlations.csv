@@ -1,0 +1,5 @@
+indicator,factor,countries,rho,p_value
+E. coli (3rd-gen. cephalosporin resistant),GDP per person (log10 PPP $),96,-0.7133206728160608,3.505243302101297e-16
+E. coli (3rd-gen. cephalosporin resistant),Health spending (% of GDP),96,-0.6568366793271839,3.67854491782408e-13
+MRSA,GDP per person (log10 PPP $),97,-0.5058269311085187,1.2569636466337546e-7
+MRSA,Health spending (% of GDP),97,-0.4475346081926671,4.306427474365113e-6

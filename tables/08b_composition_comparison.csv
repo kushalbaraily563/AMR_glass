@@ -1,0 +1,61 @@
+indicator,year,countries,median_pct,cohort,window
+E. coli (3rd-gen. cephalosporin resistant),2016,16,26.85,All reporting countries,full
+E. coli (3rd-gen. cephalosporin resistant),2017,42,29.085,All reporting countries,full
+E. coli (3rd-gen. cephalosporin resistant),2018,55,36.03,All reporting countries,full
+E. coli (3rd-gen. cephalosporin resistant),2019,62,36.595,All reporting countries,full
+E. coli (3rd-gen. cephalosporin resistant),2020,77,40,All reporting countries,full
+E. coli (3rd-gen. cephalosporin resistant),2021,77,41.03,All reporting countries,full
+E. coli (3rd-gen. cephalosporin resistant),2022,85,45.51,All reporting countries,full
+MRSA,2016,15,13.4,All reporting countries,full
+MRSA,2017,42,18.2,All reporting countries,full
+MRSA,2018,53,23.1,All reporting countries,full
+MRSA,2019,56,21.715,All reporting countries,full
+MRSA,2020,77,34.39,All reporting countries,full
+MRSA,2021,78,32.08,All reporting countries,full
+MRSA,2022,86,32.185,All reporting countries,full
+E. coli (3rd-gen. cephalosporin resistant),2016,13,25.46,Fixed reporting cohort,full
+E. coli (3rd-gen. cephalosporin resistant),2017,13,24.9,Fixed reporting cohort,full
+E. coli (3rd-gen. cephalosporin resistant),2018,13,20.4,Fixed reporting cohort,full
+E. coli (3rd-gen. cephalosporin resistant),2019,13,20.95,Fixed reporting cohort,full
+E. coli (3rd-gen. cephalosporin resistant),2020,13,31.08,Fixed reporting cohort,full
+E. coli (3rd-gen. cephalosporin resistant),2021,13,28.86,Fixed reporting cohort,full
+E. coli (3rd-gen. cephalosporin resistant),2022,13,20.39,Fixed reporting cohort,full
+MRSA,2016,13,13.4,Fixed reporting cohort,full
+MRSA,2017,13,16.7,Fixed reporting cohort,full
+MRSA,2018,13,11.3,Fixed reporting cohort,full
+MRSA,2019,13,12.28,Fixed reporting cohort,full
+MRSA,2020,13,12.1,Fixed reporting cohort,full
+MRSA,2021,13,8.98,Fixed reporting cohort,full
+MRSA,2022,13,9.42,Fixed reporting cohort,full
+E. coli (3rd-gen. cephalosporin resistant),2022,1,12.68,Australia,full
+E. coli (3rd-gen. cephalosporin resistant),2021,1,12.46,Australia,full
+E. coli (3rd-gen. cephalosporin resistant),2020,1,13.36,Australia,full
+E. coli (3rd-gen. cephalosporin resistant),2019,1,13.29,Australia,full
+MRSA,2019,1,18.47,Australia,full
+MRSA,2022,1,14.97,Australia,full
+MRSA,2021,1,16.91,Australia,full
+MRSA,2020,1,17.65,Australia,full
+E. coli (3rd-gen. cephalosporin resistant),2019,62,36.595,All reporting countries,recent
+E. coli (3rd-gen. cephalosporin resistant),2020,77,40,All reporting countries,recent
+E. coli (3rd-gen. cephalosporin resistant),2021,77,41.03,All reporting countries,recent
+E. coli (3rd-gen. cephalosporin resistant),2022,85,45.51,All reporting countries,recent
+MRSA,2019,56,21.715,All reporting countries,recent
+MRSA,2020,77,34.39,All reporting countries,recent
+MRSA,2021,78,32.08,All reporting countries,recent
+MRSA,2022,86,32.185,All reporting countries,recent
+E. coli (3rd-gen. cephalosporin resistant),2019,50,29.715,Fixed reporting cohort,recent
+E. coli (3rd-gen. cephalosporin resistant),2020,50,31.77,Fixed reporting cohort,recent
+E. coli (3rd-gen. cephalosporin resistant),2021,50,28.28,Fixed reporting cohort,recent
+E. coli (3rd-gen. cephalosporin resistant),2022,50,28.424999999999997,Fixed reporting cohort,recent
+MRSA,2019,47,20.56,Fixed reporting cohort,recent
+MRSA,2020,47,23.21,Fixed reporting cohort,recent
+MRSA,2021,47,20.83,Fixed reporting cohort,recent
+MRSA,2022,47,26.51,Fixed reporting cohort,recent
+E. coli (3rd-gen. cephalosporin resistant),2022,1,12.68,Australia,recent
+E. coli (3rd-gen. cephalosporin resistant),2021,1,12.46,Australia,recent
+E. coli (3rd-gen. cephalosporin resistant),2020,1,13.36,Australia,recent
+E. coli (3rd-gen. cephalosporin resistant),2019,1,13.29,Australia,recent
+MRSA,2019,1,18.47,Australia,recent
+MRSA,2022,1,14.97,Australia,recent
+MRSA,2021,1,16.91,Australia,recent
+MRSA,2020,1,17.65,Australia,recent
